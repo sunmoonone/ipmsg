@@ -41,3 +41,8 @@ Released under the BSD license.
 ### Troubleshooting
 
  * Not compatible with IP Messager 3.x yet.
+
+### TODO
+
+[ ] python 3
+[ ] compatible with IP Messager 3.x
